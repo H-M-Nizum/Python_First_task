@@ -1,6 +1,5 @@
 def remove_element(l):
     while True:
-    
         print('\nIf you want remove element base on index, press : 1 ')
         print('If you want remove element base on element, press : 2 ')
         print('If you want stop this process, press : 3\n')

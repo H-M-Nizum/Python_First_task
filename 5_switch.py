@@ -12,3 +12,4 @@ def switch_statement(option):
 if __name__ == "__main__":
     option = input("Enter the programming language or framework name : ")
     switch_statement(option.capitalize())
+
